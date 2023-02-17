@@ -10,9 +10,9 @@
 ## 데이터 예시
 
 ![](img/data_sample.png)
-![](img/sample_1.png)
-![](img/sample_2.png)
-![](img/sample_3.png)
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](img/sample_1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](img/sample_2.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](img/sample_3.png)
 
 ## 목표
 
@@ -44,7 +44,6 @@
 
 
 ## 총평 및 느낀점
-
+- 언제 일등 해보나..
 - 실험 파이프라인을 정말 잘 구성하는게 중요하다..
 - 공부 열심히 하자. 기초를 튼튼히 하는 것보다 좋은 성능 향상 방법은 없다.
-- 언제 일등 해보나..
